@@ -153,4 +153,4 @@ This project demonstrates how exploratory data analysis can transform raw restau
 
 Jaya Manusha
 
-- GitHub: [Your GitHub Profile](<https://github.com/>)
+- GitHub: (https://github.com/Jaya-Manusha)
