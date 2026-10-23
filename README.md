@@ -116,9 +116,9 @@ Develop a restaurant rating prediction model.
 Integrate geographical analysis using maps.
 Automate data cleaning and reporting.
 👤 Author
-Your Name
+Jaya Manusha
 
-GitHub: Your GitHub Profile
+GitHub: (https://github.com/Jaya-Manusha)
 LinkedIn: Your LinkedIn Profile
 📄 License
 This project is intended for educational and analytical purposes. Ensure that the dataset is used in accordance with its applicable license and terms of use.
